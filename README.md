@@ -27,7 +27,7 @@
 ## 팀소개
 |    정현석    |    장준형    |    나연아    |    윤희수    |    이상호    |    정근환    |    정지웅    |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|    <img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/107871028?v=4" alt="avatar" />    |    <img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/110925305?v=4" alt="avatar"/>    |    <img>    |    <img>    |    <img>    |    <img>    |    <img>    |
+|<img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/107871028?v=4" alt="avatar" />|<img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/110925305?v=4" alt="avatar"/>|나연아<img width="95px" height="95px" src=/>|<img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/136299214?v=4"/>|<img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/136061139?v=4"/>|<img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/136299077?v=4"/>|<img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/136059278?v=4"/>
 |    [@Jeong HyeonSeok](https://github.com/Sn-bow)    |    [@qewryy](https://github.com/qewryy)    |    [@yeona](https://github.com/yeeeona)    |    [@hssh0612](https://github.com/hssh0612)    |    [@sangho05](https://github.com/sangho05)    |    [@KEUNHWAN99](https://github.com/KEUNHWAN99)    |    [@Butterchip](https://github.com/Butterchip)    |
 
 ## 화면
